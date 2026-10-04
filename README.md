@@ -1,6 +1,5 @@
 # Fisheries-Intelligence-Platform
-The ocean's future depends on the decisions we make today. FishStock Intelligence App is our contribution to making those decisions count.
-Here's the code formatted for a GitHub README file in HTML:
+#The ocean's future depends on the decisions we make today. FishStock Intelligence App is our contribution to making those decisions count.
 
 <!DOCTYPE html>
 <html lang="en">
